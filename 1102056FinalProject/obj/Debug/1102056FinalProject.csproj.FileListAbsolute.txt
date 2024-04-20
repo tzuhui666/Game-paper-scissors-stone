@@ -1,0 +1,15 @@
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\bin\Debug\1102056FinalProject.exe.config
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\bin\Debug\1102056FinalProject.exe
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\bin\Debug\1102056FinalProject.pdb
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.csproj.AssemblyReference.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\_1102056FinalProject.Form1.resources
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\_1102056FinalProject.Properties.Resources.resources
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.csproj.GenerateResource.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.exe
+C:\Users\my920\Desktop\視窗\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.pdb
+G:\我的雲端硬碟\大學\大二\大二上\視窗\1102056_Final_Project\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.csproj.AssemblyReference.cache
+G:\我的雲端硬碟\大學\大二\大二上\視窗\1102056_Final_Project\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.csproj.SuggestedBindingRedirects.cache
+G:\我的雲端硬碟\大學\大二\大二上\視窗\1102056_Final_Project\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.exe
+G:\我的雲端硬碟\大學\大二\大二上\視窗\1102056_Final_Project\1102056_Final_Project\1102056FinalProject\1102056FinalProject\obj\Debug\1102056FinalProject.pdb
